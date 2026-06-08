@@ -193,6 +193,8 @@ These 20 prompts are a sample from the **[Content Creator's AI Toolkit](https://
 
 **[$15 — Get the Full Toolkit →](https://charliemorrison.lemonsqueezy.com/checkout/custom/d3f9ea94-8a53-470f-968b-f3d8ceb24074?signature=8737c6cd3a7ab7afca1d5fe8e558976f13ddac58be06ca28c74fba428d032b9d)**
 
+> 💸 **15% off** with code `GH15` at checkout.
+
 ### More AI toolkits
 
 - [AI Developer Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/custom/f5dfc7d7-2d06-4550-970f-8c715dd05f48?signature=424e547c5d2dab672ebb46c0e9f6de2467c8a2bf2f0d64952cc7108a43b41df0) — 108 prompts for coding, debugging, architecture, DevOps ($19)
